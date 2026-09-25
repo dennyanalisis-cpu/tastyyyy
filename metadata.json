@@ -1,0 +1,6 @@
+{
+  "name": "!Tasty Burguer",
+  "description": "Tasty Burguer: Hamburguesas smash artesanales, combos deliciosos, hot dogs y papas preparadas con ingredientes frescos y dedicación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
